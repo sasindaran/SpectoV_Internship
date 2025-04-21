@@ -1,0 +1,5 @@
+train: C:/Users/sasis/Desktop/project 1b/yolov5/models/dataset/images/train
+val: C:/Users/sasis/Desktop/project 1b/yolov5/models/dataset/images/val
+
+nc: 5
+names: ['1','2','3','4','5']
